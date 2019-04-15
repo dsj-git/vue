@@ -1,6 +1,6 @@
 {
   "name": "vue-dsj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vue项目基本用法和组件",
   "main": "src/index.js",
   "scripts": {
